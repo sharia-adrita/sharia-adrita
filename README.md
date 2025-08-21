@@ -3,7 +3,7 @@
 </div>   
   
 
-## <div align="center">Greetings, I'm Adrita, a Junior SQA Engineer at Skylark Soft Limited. 👨‍💻</div>  
+## <div align="center">Greetings, I'm Adrita, a Junior SQA Engineer 👨‍💻</div>  
   
 
 - 🌱 I’m currently enhancing my knowledge of Automation Testing  
